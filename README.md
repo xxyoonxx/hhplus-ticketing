@@ -1,7 +1,7 @@
 [![](https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg)](https://hhpluscertificateofcompletion.oopy.io/)
 # 콘서트 예약 서비스
 
-# 동시성 제어g
+# 동시성 제어
 
 ## 문제 상황
 
@@ -77,13 +77,6 @@ Application 수준에서 제공하는 locking기법으로, 데이터베이스를
 ![pessi-reservation.PNG](assets%2Ftest%2Fpessi-reservation.PNG)
 
 ## step05
-<details>
-<summary>Milestone</summary>
-
-## [바로가기](https://github.com/users/xxyoonxx/projects/2)
-
-</details>
-<p>
 <details>
 <summary>요구사항 명세서</summary>
 
