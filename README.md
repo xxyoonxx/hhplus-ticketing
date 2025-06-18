@@ -1,6 +1,7 @@
+[![](https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg)](https://hhpluscertificateofcompletion.oopy.io/)
 # 콘서트 예약 서비스
 
-# 동시성 제어
+# 동시성 제어g
 
 ## 문제 상황
 
